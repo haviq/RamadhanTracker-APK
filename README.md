@@ -24,11 +24,11 @@ A modern, comprehensive Flutter application to help Muslims track and enhance th
 - **Backend**: Node.js, Express, MySQL, JWT Auth
 - **Design**: Material 3 + Dark Mode support
 
-## Setup Development
+## Setup Development(Upload Soon)
 
 1. Clone repo ini
  
-   git clone https://github.com/yourusername/ramadan-tracker.git
+   git clone https://github.com/haviq/RamadhanTracker-APK)
   
 
 2. Setup backend
