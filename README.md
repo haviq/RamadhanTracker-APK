@@ -24,22 +24,6 @@ A modern, comprehensive Flutter application to help Muslims track and enhance th
 - **Backend**: Node.js, Express, MySQL, JWT Auth
 - **Design**: Material 3 + Dark Mode support
 
-## Setup Development(Upload Soon)
-
-1. Clone repo ini
- 
-   git clone https://github.com/haviq/RamadhanTracker-APK)
-  
-
-2. Setup backend
-   - Masuk ke folder `backend-node/`
-   - Buat file `.env` dari template yang tersedia
-   - Jalankan `npm install` lalu `node server.js`
-
-3. Setup Flutter
-   - Jalankan `flutter pub get`
-   - Update `AppConstants.apiBaseUrl` sesuai IP server
-   - Jalankan `flutter run`
 
 ## Lisensi
 
